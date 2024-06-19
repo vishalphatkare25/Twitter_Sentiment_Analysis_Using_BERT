@@ -1,1 +1,2 @@
-# Twitter_Sentiment_Analysis_Using_BERT
+# BERT_Model-NLP
+Medical Abstract Classifier using BERT Approach
